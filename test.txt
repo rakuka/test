@@ -1,0 +1,18 @@
+abstract.php
+L:648 i++;
+
+
+
+L:1845
+$kp
+
+L:2233
+  $arr = array_diff($arr, array(''));
+
+  $arr = array_diff($arr, array(''));
+        $arr = array_values($arr);
+
+L：5652
+  if (!isset($acquirerRate) || !$acquirerRate) {
+
+
