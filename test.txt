@@ -1,7 +1,7 @@
 abstract.php
 L:648 i++;
 
-
+$test;
 
 L:1845
 $kp
@@ -21,3 +21,4 @@ L：5652
 
 
 AAA
+ああああ
